@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://rauru.dev">
-    <img src="https://rauru.dev/images/logo.svg" alt="Rauru" width="400" />
+  <a href="https://impa.dev">
+    <img src="https://impa.dev/images/logo.svg" alt="Impa" width="400" />
   </a>
 </p>
 
