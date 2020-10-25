@@ -1,6 +1,8 @@
 import { createGlobalStyle, css } from 'styled-components';
 import { color, typography } from './styles';
 
+export const fontUrl = 'https://use.typekit.net/mgy3wke.css';
+
 export const bodyStyles = css`
   font-family: ${typography.type.primary};
   font-size: ${typography.size.s3}px;

@@ -1,4 +1,5 @@
 import { css } from 'styled-components';
+import 'victormono';
 
 // Global style variables
 export const background = {
@@ -55,8 +56,8 @@ export const spacing = {
 
 export const typography = {
   type: {
-    primary: '"Nunito Sans", "Helvetica Neue", Helvetica, Arial, sans-serif',
-    code: '"SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace',
+    primary: '"proxima-nova", serif',
+    code: '"Victor Mono", monospace',
   },
   weight: {
     regular: '400',
