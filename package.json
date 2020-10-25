@@ -20,6 +20,7 @@
     "eject": "react-scripts eject",
     "storybook": "start-storybook -p 6006 -s public",
     "build-storybook": "build-storybook -s public",
+    "deploy-storybook": "storybook-to-ghpages",
     "chromatic": "npx chromatic --project-token czneapa4i6"
   },
   "eslintConfig": {
@@ -52,6 +53,7 @@
     "@storybook/preset-scss": "^1.0.3",
     "@storybook/preset-typescript": "^3.0.0",
     "@storybook/react": "^6.0.27",
+    "@storybook/storybook-deployer": "^2.8.7",
     "babel-loader": "^8.1.0",
     "chromatic": "^5.2.0",
     "css-loader": "^5.0.0",
@@ -63,5 +65,10 @@
     "ts-loader": "^8.0.7",
     "typescript": "^4.0.3",
     "victormono": "^1.4.1"
+  },
+  "storybook-deployer": {
+    "gitUsername": "austinbiggs",
+    "gitEmail": "930864+austinbiggs@users.noreply.github.com",
+    "commitMessage": "Deploy Storybook"
   }
 }
