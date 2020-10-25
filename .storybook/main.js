@@ -18,6 +18,6 @@ module.exports = {
         }
       }
     },
-    "@storybook/preset-typescript"
+    // "@storybook/preset-typescript"
   ]
 }
