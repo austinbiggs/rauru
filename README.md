@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://impa.dev">
-    <img src="https://impa.dev/logo.png" alt="Impa" width="400" />
+    <img src="https://raw.githubusercontent.com/codesage-io/impa/main/public/logo.png" alt="Impa" width="75" width="75" />
   </a>
 </p>
 
