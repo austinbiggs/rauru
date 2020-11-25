@@ -58,7 +58,7 @@
     "chromatic": "^5.2.0",
     "css-loader": "^5.0.0",
     "fork-ts-checker-webpack-plugin": "^5.2.0",
-    "prettier": "^2.1.2",
+    "prettier": "^2.2.0",
     "react-is": "^17.0.1",
     "sass-loader": "^10.0.4",
     "style-loader": "^2.0.0",
