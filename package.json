@@ -54,7 +54,7 @@
     "@storybook/preset-typescript": "^3.0.0",
     "@storybook/react": "^6.1.6",
     "@storybook/storybook-deployer": "^2.8.7",
-    "babel-loader": "^8.1.0",
+    "babel-loader": "^8.2.2",
     "chromatic": "^5.2.0",
     "css-loader": "^5.0.1",
     "fork-ts-checker-webpack-plugin": "^5.2.0",
