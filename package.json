@@ -52,7 +52,7 @@
     "@storybook/preset-create-react-app": "^3.1.4",
     "@storybook/preset-scss": "^1.0.3",
     "@storybook/preset-typescript": "^3.0.0",
-    "@storybook/react": "^6.1.6",
+    "@storybook/react": "^6.1.11",
     "@storybook/storybook-deployer": "^2.8.7",
     "babel-loader": "^8.2.2",
     "chromatic": "^5.2.0",
